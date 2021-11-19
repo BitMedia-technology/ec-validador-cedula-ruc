@@ -4,7 +4,6 @@
     "homepage": "https://github.com/BitMedia-technology/ec-validador-cedula-ruc",
     "license": "MIT",
     "require": {
-        "tavo1987/ec-validador-cedula-ruc": "^1.0",
         "php": ">=5.4.0"
     },
     "authors": [
