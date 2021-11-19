@@ -1,6 +1,8 @@
 {
     "name": "bitmedia/ec-validator-ci-ruc",
     "description": "Mejoras de tavo1987/ec-validador-cedula-ruc para soportar Ruc y CI de extranjeros",
+    "homepage": "https://github.com/BitMedia-technology/ec-validador-cedula-ruc",
+    "license": "MIT",
     "require": {
         "tavo1987/ec-validador-cedula-ruc": "^1.0",
         "php": ">=5.4.0"
