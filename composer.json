@@ -1,6 +1,6 @@
 {
     "name": "bitmedia/ec-validator-ci-ruc",
-    "description": "Mejoras de tavo1987/ec-validador-cedula-ruc para soportar Ruc y CI de extranjero",
+    "description": "Mejoras de tavo1987/ec-validador-cedula-ruc para soportar Ruc y CI de extranjeros",
     "require": {
         "tavo1987/ec-validador-cedula-ruc": "^1.0",
         "php": ">=5.4.0"
@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Tavo\\": "src/"
+            "Bitmedia\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tavo\\Tests\\": "tests/"
+            "Bitmedia\\Tests\\": "tests/"
         }
     }
 }
